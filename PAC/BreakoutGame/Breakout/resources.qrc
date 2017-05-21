@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bolinha.png</file>
+        <file>brickie.png</file>
+        <file>pegabola.png</file>
+        <file>brickie2.png</file>
+        <file>pegabolaMaior.png</file>
+        <file>pegabolaMenor.png</file>
+    </qresource>
+</RCC>
