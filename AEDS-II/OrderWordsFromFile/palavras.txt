@@ -1,0 +1,305 @@
+MICROSOFT SOFTWARE LICENSE TERMS
+
+WINDOWS VISTA SERVICE PACK 1
+
+Microsoft Corporation (or based on where you 
+live, one of its affiliates) licenses this 
+supplement to you. If you are licensed to use 
+Windows Vista (the 'software'), you may use 
+this supplement. You may not use it if you do 
+not have a license for the software. You may 
+use a copy of this supplement with each 
+validly licensed copy of the software.
+
+The following license terms describe 
+additional terms for the software. These 
+terms and the license terms for the software 
+apply to your use of the supplement. If there 
+is a conflict, these supplemental license 
+terms apply. The changes include:
+
+· details about the number of service 
+connections available
+
+· additional information about the 
+activation and validation functions of the 
+software, which determine whether the 
+software is counterfeit, improperly licensed 
+or a non-genuine Windows product
+
+· additional privacy disclosures about 
+Internet-based services
+
+· description of rights for academic and 
+specific-geographic software
+
+· availability of a digital proof of license
+
+This list highlights some of the changes. 
+The terms below govern your use of the 
+software.
+
+By using this supplement, you accept these 
+terms. If you do not accept them, do not use 
+this supplement.
+
+If you comply with these license terms, you 
+have the rights below.
+
+1. ADDITIONAL LICENSING REQUIREMENTS AND/OR 
+USE RIGHTS.
+
+a. Windows Vista Ultimate, Business, and 
+Home Premium. For these three editions, you 
+may allow up to 10 other devices to connect 
+to the software installed on the licensed 
+device to use File Services, Print Services, 
+Internet Information Services and Internet 
+Connection Sharing and Telephony Services. 
+However, you may not exceed a total of 10 
+connections at one time.
+
+b. Windows Vista Home Basic. For this 
+edition, you may allow up to 5 other devices 
+to connect to the software installed on the 
+licensed device to use File Services, Print 
+Services, Internet Information Services and 
+Internet Connection Sharing and Telephony 
+Services. However, you may not exceed a total 
+of 5 connections at one time.
+
+2. MANDATORY ACTIVATION.
+
+ Activation associates the use of the 
+software with a specific device. During 
+activation, the software will send 
+information about the software and the device 
+to Microsoft. This information includes the 
+version, language and product key of the 
+software, the Internet protocol address of 
+the device, and information derived from the 
+hardware configuration of the device. For 
+more information, see http://go.microsoft.
+com/fwlink/?Linkid=96549. By using the 
+software, you consent to the transmission of 
+this information. If properly licensed, you 
+have the right to use the version of the 
+software installed during the installation 
+process up to the time permitted for 
+activation. Unless the software is activated, 
+you have no right to use the software after 
+the time permitted for activation. This is to 
+prevent its unlicensed use. You are not 
+permitted to bypass or circumvent activation. 
+If the device is connected to the Internet, 
+the software may automatically connect to 
+Microsoft for activation. You can also 
+activate the software manually by Internet or 
+telephone. If you do so, Internet and 
+telephone service charges may apply. Some 
+changes to your computer components or the 
+software may require you to reactivate the 
+software. The software will remind you to 
+activate it until you do.
+
+3. VALIDATION.
+
+ a. Validation verifies that the software 
+has been activated and is properly licensed. 
+It also verifies that no unauthorized changes 
+have been made to the validation, licensing, 
+or activation functions of the software. 
+Validation may also check for certain 
+malicious or unauthorized software related to 
+such unauthorized changes. A validation check 
+confirming that you are properly licensed 
+permits you to continue to use the software, 
+certain features of the software or to obtain 
+additional benefits. You are not permitted to 
+circumvent validation. This is to prevent 
+unlicensed use of the software. For more 
+information, see http://go.microsoft.
+com/fwlink/?Linkid=96550.
+
+ b. The software will from time to time 
+perform a validation check of the software. 
+The check may be initiated by the software or 
+Microsoft. To enable the activation function 
+and validation checks, the software may from 
+time to time require updates or additional 
+downloads of the validation, licensing or 
+activation functions of the software. The 
+updates or downloads are required for the 
+proper functioning of the software and may be 
+downloaded and installed without further 
+notice to you. These updates and downloads 
+may be delivered to you through the Windows 
+Update service (if you use the service) or 
+through other means. During or after a 
+validation check, the software may send 
+information about the software, the device 
+and the results of the validation check to 
+Microsoft. This information includes, for 
+example, the version and product key of the 
+software, any unauthorized changes made to 
+the validation, licensing or activation 
+functions of the software, any related 
+malicious or unauthorized software found and 
+the Internet protocol address of the device. 
+Microsoft does not use the information to 
+identify or contact you. By using the 
+software, you consent to the transmission of 
+this information. For more information about 
+validation and what is sent during or after a 
+validation check, see http://go.microsoft.
+com/fwlink/?Linkid=96551.
+
+ c. If, after a validation check, the 
+software is found to be counterfeit, 
+improperly licensed, a non-genuine Windows 
+product, or include unauthorized changes, the 
+functionality and experience of using the 
+software will be affected, for example:
+
+ Microsoft may
+
+· repair the software, remove, quarantine or 
+disable any unauthorized changes that may 
+interfere with the proper use of the software,
+including circumvention of the activation or 
+validation functions of the software, or
+
+· check and remove malicious or unauthorized 
+software known to be related to such 
+unauthorized changes, or
+
+· provide notices that the software is 
+improperly licensed or a non-genuine Windows 
+product
+
+ and you may
+
+· receive reminders to obtain a properly 
+licensed copy of the software, or
+
+· need to follow Microsoft's instructions to 
+be licensed to use the software and 
+reactivate,
+
+and you may not be able to
+
+· use or continue to use the software or 
+some of the features of the software, or
+
+· obtain certain updates or upgrades from 
+Microsoft
+
+d. You may only obtain updates or upgrades 
+for the software from Microsoft or authorized 
+sources. For more information on obtaining 
+updates from authorized sources see http://go.
+microsoft.com/fwlink/?Linkid=96552.
+
+4. INTERNET-BASED SERVICES. Microsoft 
+provides Internet-based services with the 
+software. It may change or cancel them at any 
+time. The following are in addition to the 
+Windows Vista license terms.
+
+a. Consent for Internet-Based Services. The 
+software features described below and in the 
+Windows Vista Privacy Statement connect to 
+Microsoft or service provider computer 
+systems over the Internet. In some cases, you 
+will not receive a separate notice when they 
+connect. You may switch off these features or 
+not use them. For more information about 
+these features, see the Windows Vista Privacy 
+Statement at http://go.microsoft.com/fwlink/?
+Linkid=96553. By using these features, you 
+consent to the transmission of this 
+information. Microsoft does not use the 
+information to identify or contact you.
+
+Computer Information. The following features 
+use Internet protocols, which send to the 
+appropriate systems computer information, 
+such as your Internet protocol address, the 
+type of operating system, browser and name 
+and version of the software you are using, 
+and the language code of the device where you 
+installed the software. Microsoft uses this 
+information to make the Internet-based 
+services available to you.
+
+· Plug and Play. You may connect new 
+hardware to your device. Your device may not 
+have the drivers needed to communicate with 
+that hardware. If so, the update feature of 
+the software can obtain the correct driver 
+from Microsoft and install it on your device. 
+An administrator can disable this update 
+feature. 
+
+· Windows Update. To enable the proper 
+functioning of the Windows Update service in 
+the software (if you use it), updates or 
+downloads to the Windows Update service will 
+be required from time to time and downloaded 
+and installed without further notice to you.
+
+5. ACADEMIC EDITION SOFTWARE. You must be a 
+'Qualified Educational User' to use software 
+marked as 'Academic Edition' or 'AE.' If you 
+do not know whether you are a Qualified 
+Educational User, visit www.microsoft.
+com/education or contact the Microsoft 
+affiliate serving your country.
+
+6. GEOGRAPHIC RESTRICTIONS. If the software 
+is marked as requiring activation in a 
+specific geographic region, then you are only 
+permitted to activate this software in the 
+geographic region indicated on the software 
+packaging. You may not be able to activate 
+the software outside of that region. For 
+further information on geographic 
+restrictions, visit http://go.microsoft.
+com/fwlink/?LinkId=99189. 
+
+7. PROOF OF LICENSE.
+
+ a. Genuine Proof of License. If you 
+acquired the software on a disc or other 
+media, a genuine Microsoft proof of license 
+label with a genuine copy of the software 
+identifies licensed software. To be valid, 
+this label must appear on Microsoft packaging.
+If you receive the label separately, it is 
+invalid. You should keep the packaging that 
+has the label on it to prove that you are 
+licensed to use the software.
+
+ b. Windows Anytime Upgrade License. If you 
+upgrade the software using Windows Anytime 
+Upgrade, your proof of license is identified 
+by
+
+ · the genuine Microsoft proof of license 
+label for the software you upgraded from, and
+
+ · the genuine Microsoft proof of purchase 
+label from the Windows Anytime Upgrade Kit 
+you used to upgrade
+
+c. Online Purchase Digital License. If you 
+purchased the software online from a 
+Microsoft approved digital license seller, 
+your proof of license is identified by a 
+digital license stored in the digital locker 
+at Windows Marketplace.
+
+ d. To identify genuine Microsoft software, 
+see http://www.howtotell.com.
+
+EULAID:VistaSP1_R1.0_Upgrade_RTL_en-US
